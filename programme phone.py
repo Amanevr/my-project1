@@ -1,5 +1,5 @@
 phones = ["Samsung", "Redmi", "Poco", "Apple"]
-o = Mobile_phones(phones)
+phones= Mobile_phones(phones)
 
 while True:
     print("Available Phones ")
